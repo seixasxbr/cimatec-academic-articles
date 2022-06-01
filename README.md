@@ -2,7 +2,8 @@
 
 ## overview
 A simple formatting of articles for the Academic disciplines based on abntex2 version.
-**Keywords: articles, latex
+
+**Keywords**: articles, latex
 
 ### License
 
